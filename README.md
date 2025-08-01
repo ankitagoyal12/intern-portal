@@ -1,5 +1,6 @@
 # Intern Portal - Full Stack Assignment
 
+
 ## 🔗 Features
 - Dummy login (no auth)
 - Dashboard showing intern name, referral code, and donations
